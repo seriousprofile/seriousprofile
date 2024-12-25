@@ -9,5 +9,5 @@
 - Data Structures & Algorithms  
 - Backend Development  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousprofile&layout=compact&theme=radical)
 
