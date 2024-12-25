@@ -1,7 +1,7 @@
 # 🩷 Hey, I'm Nandita! 
 
 🎓 i'm a computer science student in my third year and i'm currently interested in machine learning and algorithms!    
-🛠️ Currently working on a **Movie Recommendation System** using **Cosine Similarity**.  
+🛠️ i'm currently working on a **movie recommendation system** using **cosine similarity**.  
 
 ## 🚀 Skills  
 - Java  
