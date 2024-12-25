@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🩷 Hey, I'm Nandita! 
 
-<!--
-**seriousprofile/seriousprofile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech (Computer Science) student at KLU.  
+💻 Passionate about Backend Development and AI/ML.  
+🛠️ Currently working on a **Movie Recommendation System** using **Cosine Similarity**.  
 
-Here are some ideas to get you started:
+## 🚀 Skills  
+- Java  
+- Data Structures & Algorithms  
+- Backend Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
