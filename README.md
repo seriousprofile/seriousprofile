@@ -9,7 +9,7 @@
 - backend development
 - python
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousprofile&layout=compact&theme=shades-of-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousprofile&layout=compact&theme=material-palenight)
 
 # 💻 i mainly work with:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
