@@ -11,6 +11,11 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousprofile&layout=compact&theme=material-palenight)
 
+Currently, I’m:
+✨ Crafting an Airbnb EDA project to predict property trends
+✨ Exploring Binary Search Tree visualizations
+✨ Writing an experimental research paper on prompt engineering!
+
 # 💻 i mainly work with:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
