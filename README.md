@@ -1,7 +1,6 @@
 # 🩷 hey, i'm nando! 
 
 🎓 i'm a computer science student in my third year and i'm currently working on java and dsa + machine learning and algorithms!    
-🛠️ i'm currently working on a **movie recommendation system** using **cosine similarity**.  
 
 ## 🚀 skills  
 - java  
