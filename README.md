@@ -24,3 +24,5 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
+# 💫 repos i'm following currently: 
+![Jon K Rohn's ML Foundations (Maths!)](https://github.com/jonkrohn/ML-foundations)
