@@ -25,4 +25,4 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 # 💫 repos i'm following rn: 
-![Jon K Rohn's ML Foundations (Maths!)](https://github.com/jonkrohn/ML-foundations)
+[Jon K Rohn's ML Foundations (Maths!)](https://github.com/jonkrohn/ML-foundations)
