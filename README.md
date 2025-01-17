@@ -5,7 +5,6 @@
 ## 🚀 skills  
 - java  
 - data structures & algorithms  
-- backend development
 - python
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousprofile&layout=compact&theme=material-palenight)
