@@ -9,11 +9,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seriousprofile&layout=compact&theme=material-palenight)
 
-## ✨ Currently, I’m:
-- Crafting an Airbnb EDA project to predict property trends
-- Exploring Binary Search Tree visualizations
-- Writing an experimental research paper on prompt engineering!
-
 # 💻 i mainly work with:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -22,6 +17,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-# 💫 repos i'm following rn: 
-[Jon K Rohn's ML Foundations (Maths!)](https://github.com/jonkrohn/ML-foundations)
