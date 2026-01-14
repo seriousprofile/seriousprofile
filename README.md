@@ -3,7 +3,6 @@
 2026 coding goals: 
 - 500+ leetcode problems
 - daily dsa commits
-- good quality, unique projects for my resume 
 - one research paper
 - learn some ml and nlp :) 
 
