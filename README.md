@@ -1,7 +1,7 @@
 # 🩷 hey, i'm nando! 
 
 2026 coding goals: 
-- 500+ leetcode problems
+- 300+ leetcode problems
 - daily dsa commits
 - one research paper
 - learn some ml and nlp :) 
